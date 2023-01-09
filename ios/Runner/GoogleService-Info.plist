@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201067207087-d7tq98nf1ohgo2q4u84ar1njdufjrjuk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201067207087-d7tq98nf1ohgo2q4u84ar1njdufjrjuk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHDFScIh9ZR8xoB-CpvoC3-7XaUhBDtMo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201067207087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mailprojecttest</string>
+	<key>PROJECT_ID</key>
+	<string>rererere-fc781</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rererere-fc781.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201067207087:ios:ea479b47a09f1e3059375a</string>
+</dict>
+</plist>

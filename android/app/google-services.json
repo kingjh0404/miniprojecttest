@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "201067207087",
+    "project_id": "rererere-fc781",
+    "storage_bucket": "rererere-fc781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201067207087:android:d6b718d109be750f59375a",
+        "android_client_info": {
+          "package_name": "com.example.mailprojecttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201067207087-th4maeqklhh342jc8g38ofqc2u7ki9eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRtQ-4saOWKe8cGoT0-hItTUEf_75w7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201067207087-th4maeqklhh342jc8g38ofqc2u7ki9eu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201067207087-d7tq98nf1ohgo2q4u84ar1njdufjrjuk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mailprojecttest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
